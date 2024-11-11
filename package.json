@@ -1,0 +1,17 @@
+{
+    "name": "even-numbers-recursion",
+    "version": "1.0.0",
+    "description": "Recursion function to print even numbers between 0 and 100",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",               
+      "dev": "nodemon index.js",              
+      "test": "echo \"No test specified\" && exit 0"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "nodemon": "^2.0.22"               
+    },
+    "author": "",
+    "license": "ISC"
+  }
